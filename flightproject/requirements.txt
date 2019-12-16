@@ -1,0 +1,10 @@
+asgiref==3.2.3
+Click==7.0
+Django==2.1
+djangorestframework==3.11.0
+numpy==1.16.0
+pytz==2019.3
+spark-parser==1.8.7
+sqlparse==0.3.0
+uncompyle6==3.2.5
+xdis==3.8.9
